@@ -45,7 +45,7 @@
     "framer-motion": "^11.2.10",
     "genkit": "^1.13.0",
     "lucide-react": "^0.475.0",
-    "next": "15.3.3",
+    "next": "15.3.8",
     "patch-package": "^8.0.0",
     "react": "^18.3.1",
     "react-day-picker": "^8.10.1",
